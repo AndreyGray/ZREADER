@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ZREADER</string>
+
+    <string name="dialog_title">Choose the number of columns</string>
+    <string name="dialog_btn_ok">Ok</string>
+    <string name="dialog_btn_cancel">Cancel</string>
+    <string name="selected_item">Your choice are - </string>
+</resources>
